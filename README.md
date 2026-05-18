@@ -1,6 +1,6 @@
-# Student Performance Prediction
+# Student Performance Project
 
-Machine learning regression project predicting student final grades using demographic, social, and academic features.
+Machine learning regression project predicting student final grades using demographic, behavioral, and academic features.
 
 ## Tools Used
 - Python
