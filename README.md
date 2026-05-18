@@ -65,7 +65,8 @@ Gradient Boosting Regression
 
 Evaluation metric:
 
-Root Mean Squared Error (RMSE) and R²
+Root Mean Squared Error (RMSE) and R-squared
+
 5. Hyperparameter Tuning
 Grid Search applied to Gradient Boosting Regressor
 Optimized model complexity vs generalization tradeoff
